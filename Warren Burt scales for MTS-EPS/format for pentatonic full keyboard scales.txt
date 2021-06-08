@@ -1,0 +1,16 @@
+
+  0:          1/1               0.000  unison, perfect prime
+  1:          1/1               0.000  unison, perfect prime
+  2:         16/15            111.731  minor diatonic semitone
+  3:         16/15            111.731  minor diatonic semitone
+  4:          6/5             315.641  minor third
+  5:          6/5             315.641  minor third
+  6:          6/5             315.641  minor third
+  7:          3/2             701.955  perfect fifth
+  8:          3/2             701.955  perfect fifth
+  9:          8/5             813.686  minor sixth
+ 10:          8/5             813.686  minor sixth
+ 11:          8/5             813.686  minor sixth
+ 12:          2/1            1200.000  octave
+
+1/1 9/8 5/4 3/2 5/3 arranged for black keys on a 12 note keyboard
